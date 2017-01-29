@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "Qual a natureza da reclamação?",
+        "respostas": [
+            {
+                "texto": "Trabalhista",
+                "id": "trabalhista/inicio"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "Qual é/era o regime de trabalho?",
+        "respostas": [
+            {
+                "texto": "CLT",
+                "id": "trabalhista/clt"
+            }
+        ]
+    }
+}
