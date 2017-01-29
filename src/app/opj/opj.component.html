@@ -1,3 +1,9 @@
-<p>
-  opj works!
-</p>
+<div *ngIf="questao">
+    <h1>{{questao.texto}}</h1>
+    <ul>
+        <button *ngFor="let res of questao.respostas" (click)="onSelect(res.id)">{{res.texto}}</button>
+    </ul>
+    <div *ngIf="proximoId">
+        <opj [id] = 'proximoId'></opj>
+    </div>
+</div>
