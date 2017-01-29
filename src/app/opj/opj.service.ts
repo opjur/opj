@@ -12,7 +12,7 @@ export class OpjService {
     constructor(private http: Http) { }
 
     getQuestao(id: string): Observable<Questao> {
-        return this.http.get('app/opj/database/' + id + '.json')
+        return this.http.get('database/' + id + '.json')
             .map(this.extractData)
             .catch(this.handleError);
     }
