@@ -6,4 +6,7 @@
     <div *ngIf="proximoId">
         <opj [id] = 'proximoId'></opj>
     </div>
+    <div *ngIf="errorMessage">
+        <h1>Falha na captura do id: {{id}}</h1>
+    </div>
 </div>
