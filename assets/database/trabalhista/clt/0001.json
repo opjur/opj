@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "O seu contrato de trabalho foi rescindido sem justa causa?",
+        "respostas": [
+            {
+                "texto": "Sim",
+                "id": "trabalhista/clt/0002"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "Possui condições financeiras suficientes para arcar com o pagamento de custas processuais, sem prejuízo do sustento próprio?",
+        "respostas": [
+            {
+                "texto": "Não",
+                "id": "trabalhista/clt/0001"
+            }
+        ]
+    }
+}

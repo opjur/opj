@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "Recebeu verba rescisória?",
+        "respostas": [
+            {
+                "texto": "Não",
+                "id": "trabalhista/clt/0004"
+            }
+        ]
+    }
+}
