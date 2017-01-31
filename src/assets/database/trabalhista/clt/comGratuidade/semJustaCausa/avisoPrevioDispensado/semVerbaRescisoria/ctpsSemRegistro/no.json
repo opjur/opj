@@ -1,6 +1,12 @@
 {
     "data": 
     {
-        "texto": "Modelo encontrado"
+        "texto": "Tem prova documental que comprova relação trabalhista?",
+        "respostas": [
+            {
+                "texto": "Sim",
+                "id": "/trabalhista/clt/comGratuidade/semJustaCausa/avisoPrevioDispensado/semVerbaRescisoria/ctpsSemRegistro/temProvaDocumental"
+            }
+        ]
     }
 }

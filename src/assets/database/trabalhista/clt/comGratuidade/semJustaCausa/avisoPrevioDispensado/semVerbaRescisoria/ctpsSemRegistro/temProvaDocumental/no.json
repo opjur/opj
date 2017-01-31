@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "Fazia hora extra?",
+        "respostas": [
+            {
+                "texto": "Não",
+                "id": "/trabalhista/clt/comGratuidade/semJustaCausa/avisoPrevioDispensado/semVerbaRescisoria/ctpsSemRegistro/temProvaDocumental/semHoraExtra"
+            }
+        ]
+    }
+}
