@@ -1,0 +1,12 @@
+{
+    "data": 
+    {
+        "texto": "A CPTS foi registrada pelo reclamado?",
+        "respostas": [
+            {
+                "texto": "Não",
+                "id": "/trabalhista/clt/comGratuidade/semJustaCausa/avisoPrevioDispensado/semVerbaRescisoria/ctpsSemRegistro"
+            }
+        ]
+    }
+}

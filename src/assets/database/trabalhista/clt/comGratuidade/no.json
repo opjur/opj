@@ -1,10 +1,10 @@
 {
     "data": 
     {
-        "texto": "O seu contrato de trabalho foi rescindido sem justa causa?",
+        "texto": "O seu contrato de trabalho foi rescindido por justa causa?",
         "respostas": [
             {
-                "texto": "Sim",
+                "texto": "Não",
                 "id": "/trabalhista/clt/comGratuidade/semJustaCausa"
             }
         ]
